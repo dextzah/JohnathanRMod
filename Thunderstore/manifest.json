@@ -1,7 +1,7 @@
 ﻿{
 	"name": "JohnathanR",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/dextzah/JohnathanRMod",
 	"description": "Inspired by the Terraria mod, a mod that kills you for using a Warbanner.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
